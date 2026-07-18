@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30152061/README.md)
 # DPGS
 
 This repository contains the evaluation code for DPGS under balanced and Dirichlet-imbalanced transductive few-shot learning settings. The current configuration uses pre-extracted WRN-28-10 (S2M2) features.
